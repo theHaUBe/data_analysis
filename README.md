@@ -1,4 +1,4 @@
-#data_analysis
+# data_analysis
 
 Projekt został zrealizowany w formie **Jupyter Notebooka** i stanowi podsumowanie zagadnień związanych z **analizą statystyczną oraz testowaniem hipotez**. Celem pracy było zbadanie czynników wpływających na **ryzyko wystąpienia depresji** w oparciu o dane z badania [Gender, Mental Illness, and Crime in the United States, 2004 (ICPSR 27521)](https://www.icpsr.umich.edu/web/NACJD/studies/27521/versions/V1/variables?start=2750&sort=VARLABEL_SORT%20asc&STUDYQ=27521&EXTERNAL_FLAG=1&ARCHIVE=NACJD&rows=50).
 
